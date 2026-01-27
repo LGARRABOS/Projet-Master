@@ -4,24 +4,6 @@
 - Outil de planification (Trello )
 
 
-## 1. Introduction du Bloc 2 (1 page)
-
-**Objectif : contextualiser le projet et faire le lien avec le Bloc 1**
-
-* Rappel synthétique du contexte de Logistique et CIE
-* Rappel des orientations issues du Bloc 1 (stratégie SI validée)
-* Enjeux du projet de modernisation :
-
-  * Continuité d’activité
-  * Sécurité des données
-  * Résilience du SI
-* Objectif du Bloc 2 :
-
-  * Démontrer la capacité à **cadrer, piloter et livrer un projet informatique**
-
-👉 Cette partie sert de **pont officiel Bloc 1 → Bloc 2** (très apprécié du jury).
-
----
 
 ## 2. Cadrage du projet informatique (≈4 pages)
 
